@@ -9,7 +9,7 @@ const App = () => (
   
   <div>
     <Navigation />
-    
+    Output:
     <Route exact path="/">
       <Home />
     </Route>
